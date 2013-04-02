@@ -1,0 +1,20 @@
+{
+  "name": "coffee-stack",
+  "description": "translate js stack",
+  "keywords": ["coffee", "coffee-stack", "stack", "error"],
+  "version": "0.1.0",
+  "author": {
+    "name": "neutra"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/neutra/coffee-stack.git"
+  },
+  "engine": [
+    "node >= 0.6"
+  ],
+  "main": "./lib",
+  "devDependencies": {
+    "coffee-script":  ">=1.6.0"
+  }
+}

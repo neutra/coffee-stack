@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "with_sourcemap.js",
+  "sourceRoot": "..\\..",
+  "sources": [
+    "test\\coffee\\with_sourcemap.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,GAAA,EAAA;;CAAA,CAAA,CAAA,IAAO,EAAO;CAAG,GAAA,OAAA;CAAjB,EAAc;;CAAd,CAEA,CAAU,CAAV,KAAU;CACR,OAAA;;CAAA,EAAW,CAAX,IAAA,EAAA;GACA,MAAA,EAAA;CAAG,GAAU,CAAA,GAAA,IAAA;CAFL,IAER;CAFQ,EAAA;CAFV"
+}
